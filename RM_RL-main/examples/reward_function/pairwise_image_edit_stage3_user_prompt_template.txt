@@ -1,0 +1,5 @@
+<image><image>
+The images are ordered as source image(s) followed by the edited image.
+Editing instruction: {instruction}
+
+Generate checklist-style evaluation points for this image-editing case, score each point as 0 or 1, assign a final score from 0 to 10, and output the JSON result.

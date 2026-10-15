@@ -1,0 +1,14 @@
+# Install PyTorch matching the cluster separately (the current host has torch 2.7.1+cu128).
+transformers==5.15.0
+qwen-vl-utils==0.0.14
+peft>=0.17.0
+accelerate>=1.9.0
+datasets==4.8.4
+huggingface-hub>=0.34.0
+safetensors>=0.5.0
+pillow>=11.0.0
+decord>=0.6.0
+liger-kernel>=0.6.0
+deepspeed>=0.16.0
+hf-transfer>=0.1.9
+wandb==0.28.2

@@ -1,0 +1,5 @@
+<image>
+The image above is the generated image.
+Text prompt: {instruction}
+
+Generate checklist-style evaluation points for this text-to-image case, score each point as 0 or 1, assign a final score from 0 to 10, and output the JSON result.
