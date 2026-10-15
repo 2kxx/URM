@@ -38,6 +38,7 @@ RM_RL-main/                   verl fork used for RL (v0.9.0.dev) + reward manage
   examples/reward_function/t2i_3dim_v2_system_prompt.txt
   examples/reward_function/t2i_3dim_v2_user_prompt_template.txt
 stage3/                       the 3-dim v2 eval prompt/template
+serving/                      OpenAI-compatible server for the released judge
 reward_protocol/              serving-time request/response contract
 docs/                         runbooks, audits and the results summary
 env/                          pinned requirements
